@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-# Dsa_project
-# sorting_visulizar_
