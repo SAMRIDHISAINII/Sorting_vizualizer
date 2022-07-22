@@ -14,4 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
