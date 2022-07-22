@@ -14,4 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-![Screenshot](Screenshot 2022-07-22 at 7.31.17 PM.png)
+![Screenshot](Screenshot.png)
