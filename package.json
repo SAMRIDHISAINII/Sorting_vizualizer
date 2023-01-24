@@ -2,7 +2,7 @@
   "name": "sorting-visualizer",
   "description": "A sorting algorithm visualizer written in Vue.",
   "version": "1.0.0",
-  "author": "Qiwen Hua <qiwen.hua@mail.utoronto.ca>",
+  "author": "sami",
   "license": "MIT",
   "private": true,
   "scripts": {
