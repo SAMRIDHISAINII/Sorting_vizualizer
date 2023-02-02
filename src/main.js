@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+import store from './store.js'
 import './icons';
 
 // for babel-polyfill
@@ -14,6 +15,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.min.css';
 Vue.use(BootstrapVue);
 
 new Vue({
+  store,
   el: '#app',
   render: h => h(App)
 })
