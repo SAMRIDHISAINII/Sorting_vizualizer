@@ -1,3 +1,18 @@
-# Translate
-# Translate
-# Translate
+# Sorting Algorithm Visualizer
+
+> A sorting algorithm visualizer written in Vue.
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+# Dsa_project
+# sorting_visulizar_
