@@ -1,8 +1,7 @@
-w{
+{
   "name": "sorting-visualizer",
   "description": "A sorting algorithm visualizer written in Vue.",
   "version": "1.0.0",
-  "author": "samridhi",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -15,14 +14,12 @@ w{
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
-    "axios": "^1.3.0",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.14.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
-    "vue": "^2.5.11",
-    "vuex": "^3.4.0"
+    "vue": "^2.5.11"
   },
   "browserslist": [
     "> 1%",
